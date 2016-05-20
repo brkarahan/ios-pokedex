@@ -61,6 +61,10 @@ class PokemonDetailVC: UIViewController {
                 evoLbl.text = str
             }
             
+            else {
+                evoLbl.text = str
+            }
+            
         }
     }
 
